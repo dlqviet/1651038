@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c5f8ab29-5373-458a-a2b5-0bb0fc398fc6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "BrickWall_08": {
+      "ver": "1.0.3",
+      "uuid": "d5fef76e-cd35-4300-b0af-b112f74f02cc",
+      "rawTextureUuid": "c5f8ab29-5373-458a-a2b5-0bb0fc398fc6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1200,
+      "height": 281,
+      "rawWidth": 1200,
+      "rawHeight": 281,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
