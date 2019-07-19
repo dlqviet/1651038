@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4e71638b-23c0-4252-8197-312685e64aa5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Magma": {
+      "ver": "1.0.3",
+      "uuid": "b096d751-0bdf-499f-9342-78f3be83248b",
+      "rawTextureUuid": "4e71638b-23c0-4252-8197-312685e64aa5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7.5,
+      "offsetY": -27,
+      "trimX": 128,
+      "trimY": 136,
+      "width": 1043,
+      "height": 1096,
+      "rawWidth": 1314,
+      "rawHeight": 1314,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

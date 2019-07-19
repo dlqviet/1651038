@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "breaking3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "408700db-9233-4e08-ae8f-e9471fbb05a4"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "5ea054e4-25a3-4d2f-88df-a68f22a12b0e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "ed2fc2d4-411c-49f3-ab1d-d513a46c7bcf"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "0a39c8d7-eeeb-457d-9224-4b6b1030b815"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
